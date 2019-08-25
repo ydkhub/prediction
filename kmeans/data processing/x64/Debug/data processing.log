@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\future机器人战队\运动估计\2019年1月份进度\k-means\data processing\main.cpp(48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\future机器人战队\运动估计\2019年1月份进度\k-means\data processing\main.cpp(56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\future机器人战队\运动估计\2019年1月份进度\k-means\data processing\main.cpp(57): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  data processing.vcxproj -> E:\future机器人战队\运动估计\2019年1月份进度\k-means\x64\Debug\data processing.exe
+  data processing.vcxproj -> E:\future机器人战队\运动估计\2019年1月份进度\k-means\x64\Debug\data processing.pdb (Full PDB)
