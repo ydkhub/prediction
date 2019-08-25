@@ -1,0 +1,8 @@
+﻿  KF_predict.cpp
+e:\future机器人战队\运动估计\3月份进度\kfpredict\kfpredict\kf_predict.cpp(123): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\future机器人战队\运动估计\3月份进度\kfpredict\kfpredict\kf_predict.cpp(124): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\future机器人战队\运动估计\3月份进度\kfpredict\kfpredict\kf_predict.cpp(126): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\future机器人战队\运动估计\3月份进度\kfpredict\kfpredict\kf_predict.cpp(127): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\future机器人战队\运动估计\3月份进度\kfpredict\kfpredict\kf_predict.cpp(134): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  KFpredict.vcxproj -> E:\future机器人战队\运动估计\3月份进度\KFpredict\x64\Debug\KFpredict.exe
+  KFpredict.vcxproj -> E:\future机器人战队\运动估计\3月份进度\KFpredict\x64\Debug\KFpredict.pdb (Full PDB)
